@@ -1,8 +1,8 @@
-#Global powerplant data analysis
+# Global powerplant data analysis
 By Inwoo Choi, Gaurav Malik and Tomasz Wojcik 
 
-#Proposal and Goals
-##Introduction: 
+# Proposal and Goals
+## Introduction: 
 
 In this day and age, many countries are looking into renewable energy sources and ways they can use energy more efficiently. An example would be the large scale investments that countries like China, Saudia Arabia, Germany, Denmark, etc. are doing to diversify their energy portfolio’s. Some of these investments include looking into renewable energy markets such as wind, solar, geothermal and tidal. 
 
@@ -10,7 +10,7 @@ These investments not only allow diversification into cleaner forms of energy th
 
 Our goal with this project is to explore the different kinds of energy sources each country utilizes and compare them against those of other countries. This analysis will lead to an accurate illustration of the percentage distribution of power generation and allow us to answer the guiding questions that we have come up with (mentioned in the next topic of this proposal).
 
-##Describing the Data Set:
+## Describing the Data Set:
 
 The data set that we will be analyzing and attempting to provide a direct visualization of is the Global Power Plant Database. This database is an open source database, licensed under the MIT License, that provides the public a comprehensive and holistic overview of power plants around the world. It is intended to make it easier for individuals to analyze, understand and share energy generation from varying plants from around the world.
 
@@ -21,7 +21,7 @@ Another advantage of this data set is that it provides information on the locati
 Finally by using this data we will be able to provide a clear picture of the types of energy generation methods that are being utilized around the world and will also allow to determine which countries focus on what type of energy generation techniques the most and allow us to compare countries against each other as previously mentioned. 
 
 The MIT License permits us to use the data privately and commercially, as well as make modifications and distribute it. (MIT License)
-##Guiding Questions:
+## Guiding Questions:
 
 
 1. What are the sources of energy from country to country? Specifically focusing on what the relative proportions are utilized (such as non-renewable and renewable)?
