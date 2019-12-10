@@ -1,3 +1,9 @@
+__Download the jupyter file to see the graphs__
+###Libraries required
+- numpy
+- pandas
+- plotly
+
 # Global powerplant data analysis
 By Inwoo Choi, Gaurav Malik and Tomasz Wojcik 
 
